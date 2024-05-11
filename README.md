@@ -6,4 +6,5 @@
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; bottom: 0; left: 0; background-repeat: no-repeat; height: 224px; object-fit: cover; width: 400px; background: url('https://github.com/opcode86/aasdf/assets/69675267/b7cdf997-8cb0-47cf-b159-852e67e5c928');]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; bottom: 0; right: 0; background-repeat: no-repeat; height: 180px; object-fit: cover; width: 320px; background: url('https://github.com/opcode86/aasdf/assets/69675267/62ca885d-5749-4763-a7c9-a7718aeb87d7');]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 12vh; left: 0; background-repeat: no-repeat; height: 320px; object-fit: cover; width: 320px; background: url('https://github.com/opcode86/aasdf/assets/69675267/f20d7394-7039-4965-aca2-886b2e980a6f');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 12vh; right: 0; background-repeat: no-repeat; height: 320px; object-fit: contain; width: 320px; background: url('https://github.com/opcode86/aasdf/assets/69675267/b2dabe4e-73d9-4e04-b0e6-41dcf493d285');]{x0000}$}
 ```
